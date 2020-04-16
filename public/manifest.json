@@ -1,0 +1,27 @@
+{
+    "name" : "Srinagar News Feed",
+    "short_name" : "News",
+    "start_url" : "/index.html",
+    "scope": ".",
+    "display" : "standalone",
+    "background_color" : "#fff",
+    "theme_color" : "c00f0f",
+    "orientation": "portrait-primary",
+    "icons" : [{
+        "src":"/images/icons/app-icon-48x48.png",
+        "type": "image/png",
+        "sizes":"48x48"
+    },
+    {
+        "src":"/images/icons/app-icon-144x144.png",
+        "type": "image/png",
+        "sizes":"144x144"
+    }    
+],
+
+"description":"For unbiased Journalism, reflecting TRUTH.",
+"dir" : "ltr",
+"lang" : "en-US"
+
+
+}

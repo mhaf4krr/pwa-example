@@ -1,0 +1,27 @@
+[
+    {
+        "title":"Doland Trump offers Kashmir Mediation",
+        "imgurl" : "/images/app/01.png",
+        "data" : "U.S president Doland Trump in a recent conversation with media has emphasized on the importance of resolution of Kashmir dispute.",
+        "category" : "world"
+    },
+    {
+        "title":"Grace 1 sails back, UK denies US request to seize tanker",
+        "imgurl" : "/images/app/01.png",
+        "data" : "Grace 1 leaves port of UK. Iran warns US of any misadventures.",
+        "category" : "world"
+    },
+    {
+        "title":"Parts of Kashmir still under seige. Communication not restored.",
+        "imgurl" : "/images/app/01.png",
+        "data" : "Despite wide assurances made by government. Communication has still not been restored in the valley. Landlines defunct, Internet a dream.",
+        "category" : "kashmir"
+    },
+
+    {
+        "title":"Former Home Minister P. Chitambram cornered in INX Media corruption",
+        "imgurl" : "/images/app/01.png",
+        "data" : "Former Home Minister and senior opposition leader has been yesterday arrested by CBI and ED. The investigation agency makes a dramatic arrest.",
+        "category" : "national"
+    }
+]

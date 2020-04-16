@@ -1,0 +1,24 @@
+patient related features
+
+register or authenticate ->
+
+~ REGISTER + save FingerPrint ->
+1 Name
+2 Phone 
+3 Address
+4 Age
+5 Weight
+
+save patient to DB
+
+~ AUTHENTICATE using FingerPrint ->
+
+ choose test ->
+
+Select Box showing list of all tests available ->
+
+
+
+ billing & payment -> print receipt
+
+
